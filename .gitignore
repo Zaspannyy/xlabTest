@@ -1,0 +1,8 @@
+﻿Logs
+UserSettings
+.vscode
+*.csproj
+Library
+Temp
+obj
+test_xlab.sln
